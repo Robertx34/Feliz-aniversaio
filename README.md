@@ -232,6 +232,7 @@
         <img src="fotos/foto1.jpg" />
         <img src="fotos/foto2.jpg" />
         <img src="fotos/foto3.jpg" />
+        <img src="fotos/foto4.jpg" />
         <img src="fotos/foto5.jpg" />
         <img src="fotos/foto6.jpg" />
         <img src="fotos/foto7.jpg" />
